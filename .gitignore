@@ -1,2 +1,29 @@
 target/
-*/target/
+# Compiled Bytecode
+*.o
+*.so
+*.rlib
+*.rmeta
+*.a
+*.dll
+
+# Executables
+*.exe
+
+# Cargo
+/target/
+**/target/
+Cargo.lock
+
+# Rust Language Server
+.rls/
+
+# IDEs and editors
+.idea/
+.vscode/
+*.iml
+*.swp
+
+# OS-specific
+.DS_Store
+Thumbs.db
