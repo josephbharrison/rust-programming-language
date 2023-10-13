@@ -9,8 +9,7 @@ Each directory corresponds to a chapter in the book and is broken down into indi
 ```
 .
 ├── chapter-01/
-│   ├── hello-world/
-│   └── another-example/
+│   └── hello-world/
 ├── chapter-02/
 │   ├── guessing-game/
 ├── chapter-03/
