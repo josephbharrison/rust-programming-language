@@ -1,6 +1,6 @@
 # The Rust Programming Book
 
-This repository contains all code examples from **The Rust Programming Book, 2nd Edition**.
+This repository contains all code examples from [The Rust Programming Book, 2nd Edition](https://nostarch.com/rust-programming-language-2nd-edition)
 > NOTE: This version of the text assumes you’re using Rust 1.62.0 (released 2022-06-30) or later with edition="2021" in the Cargo.toml file of all projects to configure them to use Rust 2021 edition idioms. See “Installation” on page 1 for instructions on installing or updating Rust, and see Appendix E for information on editions.
 Each directory corresponds to a chapter in the book and is broken down into individual projects for each section.
 
