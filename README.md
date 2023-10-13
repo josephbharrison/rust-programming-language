@@ -70,7 +70,7 @@ Make sure you have Rust and Cargo installed to run these examples.
 
 ## License
 
-MIT License. See [LICENSE](./LICENSE) for details.
+MIT License. See [LICENSE](LICENSE.md) for details.
 
 ---
 
