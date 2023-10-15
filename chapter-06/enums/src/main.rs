@@ -25,7 +25,7 @@ fn main() {
     println!("coin4 is kind: {:?}", coin4);
 
     let value = value_in_cents(&coin4);
-    println!("value of coin4: {}", value);
+    println!("value of coin4 (cents): {}", value);
 }
 
 fn value_in_cents(coin: &Coin) -> u8 {
